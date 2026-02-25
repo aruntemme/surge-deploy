@@ -90,6 +90,12 @@ surge-deploy/
     └── github-action.yml  # GitHub Actions workflow
 ```
 
+## Demo
+
+This skill's landing page is created and hosted using surge-deploy itself:
+
+[surge-deploy-skill.surge.sh](https://surge-deploy-skill.surge.sh)
+
 ## License
 
 MIT
